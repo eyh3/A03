@@ -23,5 +23,3 @@ Pull - Pulling a branch means to fetch it and merge it.
 Remote - A repository which is used to track the same project but resides somewhere else. To communicate with remotes, use fetches or pushes.
 
 Repository - A collection of refs together with an object database containing all objects which are reachable from the refs, possibly accompanied by meta data from one or more porcelains. A repository can share an object database with other repositories via alternates mechanism.
-
-test
